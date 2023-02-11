@@ -1,0 +1,58 @@
+<!DOCTYPEhtml>
+<html lang="en">
+	<head> 
+		<body>
+			<img src="movie poster.jpg" alt="toy story" width="450" height="550">
+</head>
+			<header1>My favorite movie is Toy Story</header1>
+
+			<header2>Woody, cowboy doll who belongs to a young boy named Andy, sees his position as Andy's favorite toy jeopardized when his mother buy him a Buzz Lightyear  action figure. Even worse, the arrogant Buzz thinks he's a real spaceman on a mission to return to his home planet. When Andy's family moves to a new house, Woody and Buzz must escape the clutches of maladjusted neighbor Sid and reunite with their boy. </header2>
+	    </body>
+		<body>
+			<header2>Cast list</header2>
+			<ul>
+  				<li>Tom Hanks as Woody</li>
+  				<li>Tim Allen as Buzz Lightyear</li>
+ 			    <li>Don Rickles as Mr. Potato Head</li>
+ 			    <li>Jim Varney as Slinky Dog</li>
+ 			    <li>Wallace Shawn as Rex</li>
+ 			    <li>John Ratzenberger as Hamm</li>
+ 			    <li>Annie Potts as Bo Peep</li>
+ 			    <li>John Morris as Andy Davis</li>
+ 			    <li>Erik von Detten as Sid Phillips</li>
+ 			    <li>Laurie Metcalf as Mrs. Davis</li>
+ 			    <li>R. Lee Ermey as Sergeant</li>
+ 			    <li>Sarah Freeman as Hannah Phillips</li>
+ 			    <li>Penn Jillette as the Buzz Lightyear TV commercial announcer</li>
+ 			</ul>
+        <body>
+ 			<header2> The line I think is the Funniest is:</header>
+ 				<p>"YOU..ARE..A..TOY. You aren't the real Buzz Lightyear!. You're an action figure!. You are a child's plaything!. " -Woody </p>
+ 				<p>“You are a sad, strange little man, and you have my pity. Farewell.” — Buzz Lightyear</p>
+ 		</body>
+        <body>
+ 				<header2>Movie Ratings</header2>
+ 				<p> According to My Family</p>
+ 				<p>Story:</p>
+ 				<div class="w3-light-grey w3-round">
+  					<div class="w3-container w3-round w3-blue" style="width:25%"></div>
+				</div>
+				<p>Cast:</p>
+				<div class="w3-light-grey w3-round">
+  					<div class="w3-container w3-round w3-blue" style="width:25%"></div>
+				</div>
+				<p>Ending:</p>
+				<div class="w3-light-grey w3-round">
+  					<div class="w3-container w3-round w3-blue" 
+  					style="width:25%"></div>
+				</div>
+		</body>	
+        <body>
+                <p><mark>This is one of my most Favorite movies of all time.</mark></p>
+        </body>
+        <body>
+        	<p> K.M Date Febuary 6, 2023</p>
+        </body>
+</html>
+            
+
